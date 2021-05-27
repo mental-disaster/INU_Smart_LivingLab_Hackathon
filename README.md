@@ -14,4 +14,5 @@
 
 -------------------------------------------
 
-![스마트리빙랩 해커톤 사운드](https://user-images.githubusercontent.com/54014203/119817910-7e645100-bf29-11eb-9a85-38bf3d19b1ed.jpg){: width="50%" height="50%"}
+![스마트리빙랩 해커톤 사운드](https://user-images.githubusercontent.com/54014203/119818322-05192e00-bf2a-11eb-82a9-b317247309a7.jpg){: width="50%" height="50%"}
+
