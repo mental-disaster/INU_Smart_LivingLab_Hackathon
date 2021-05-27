@@ -1,0 +1,4 @@
+librosa
+numpy
+tensorflow>=2.0
+h5py==2.10

@@ -1,0 +1,6 @@
+.idea/
+__pycache__
+data/eval/
+data/feature/
+data/train/
+venv/
