@@ -4,7 +4,7 @@
 
 학습데이터 및 기본 SW 패키지는 대회에서 제공하였습니다
 
-출처 및 자세한 내용은 https://github.com/IMPRESS-LAB/Smart_LivingLab_Hackathon_Speech를 참조하실 수 있습니다
+출처 및 자세한 내용은 https://github.com/IMPRESS-LAB/Smart_LivingLab_Hackathon_Speech 참조하실 수 있습니다
 
 ---------------------------------------
 
